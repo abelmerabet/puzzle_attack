@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d6c7b68548f74f2aefc78ba92d388fbb3a7a2642/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_940c417ee15b672b016dd5715139dcf6745f7c82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_417f3e334201a14dc30d29e17cd2f4dfdfe7258d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66434d438ec172dc538bde8db798c04ffe945041">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5a4213d8911e89fda1af63830f0249793969b485/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_7e28a2b341573df3490816062b48c8dab33193a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_7f50db061f30791f7972a633a738142a95d98c52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f122f4c8dd5d353f9c5a2e8854049de77d1f37a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_cb364f6726925cd947de2ec7e3f40d03b9a5ad08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_1f8653f74ba9979a631bed00705797239474fda6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_ff9cebf25ae744c806981ce957bfca16cabc721c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8f30679b1282126340386a57f3675b07cbae1c92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_debf40104a118f3b0b6e859a3fe99c34353055c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c6a8d0cd073b45ef00a97c1c219f8aa8e4d9a10">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a5d04e3a384ba41aca9e3fc065c31eb1dd35f9cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_dfdf65770bcf5b2873ae554e017051c82ad7f8ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_3426b59b8f2c846519c27f5711a332b1c8c86122/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_b2b7472289e9f4a433c5d0b97fa77e8fa48f6512/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/q/Desktop/puzzle_attacks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a66c5ddbacee4d718a92d56c0055fc4e655ec152/classes.dex" />
+    </item>
+
+</items>

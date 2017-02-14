@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">puzzle_attacks</string>
+    <string name="nom">Puzzle Attack</string>
+    <string name="jouer">Jouer</string>
+    <string name="comment_jouer">Comment jouer</string>
+    <string name="param">Parametres</string>
+    <string name="profile">Mon profile</string>
+    <string name="hof">Hall of fame</string>
+    <string name="surprise">Awesome surprise</string>
+</resources>
